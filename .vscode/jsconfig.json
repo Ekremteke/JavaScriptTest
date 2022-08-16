@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": [
+            "esnext"
+        ]
+    }
+}
+{
+    "scripts": {
+        "test": "jest"
+    }
+}
